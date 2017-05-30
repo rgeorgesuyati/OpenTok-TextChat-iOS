@@ -1,9 +1,9 @@
 # OpenTok-TextChat-iOS
 A wrapper for OpenTok iOS SDK to easily integrate Text Chat feature into your applications.
 
-#Setup
+# Setup
 
-##Running the Sample App
+## Running the Sample App
 
 * Download latest OpenTok iOS SDK from https://tokbox.com/developer/sdks/ios/
 
@@ -23,7 +23,7 @@ KSESSION_TOKEN
 ```
 * Run the application. 
 
-##Integration with existing project 
+## Integration with existing project 
 
 * Add SYOpenTokClient.h and SYOpenTokClient.m into your project.
 
@@ -72,7 +72,7 @@ connection: A destination OTConnection object. (Use this to send a message to sp
 * When message is send or received, this delegate method will be called. You can check the author flag to identify the creator of the message. 
 
 
-#Authors and Contributors
+# Authors and Contributors
 
 OpenTok-TextChat-iOS is developed by Suyati Technologies. It is written and maintained by their iOS Development team.
 
@@ -80,6 +80,6 @@ Author:
 
 * **Rijo George (@rgeorgesuyati)**
 
-#Support or Contact
+# Support or Contact
 
 Have Suggestions? Want to give us something to do? Contact us at : support@suyati.com
